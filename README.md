@@ -1,4 +1,4 @@
-Código de Conduta para Contribuição no Medium e GitHub
+#Código de Conduta para Contribuição no Medium e GitHub
 
 Bem-vindo à nossa comunidade de contribuição no Medium e GitHub. Para criar um ambiente colaborativo, inclusivo e respeitoso, pedimos que todos os participantes sigam este Código de Conduta. Este documento estabelece as diretrizes para interações e contribuições em nossas plataformas. Ao participar, você concorda em cumprir este código.
 
